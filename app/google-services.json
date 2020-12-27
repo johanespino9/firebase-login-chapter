@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42847571359",
+    "project_id": "mobile-chapter-2",
+    "storage_bucket": "mobile-chapter-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42847571359:android:df444b5f30c0c760d981aa",
+        "android_client_info": {
+          "package_name": "com.johanespino.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42847571359-eloffn1dol79nc67r9gj4guvq7tq030l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM0oplQeuWwqQu41Wj6YRidAplXSGp1ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42847571359-eloffn1dol79nc67r9gj4guvq7tq030l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
